@@ -1,2 +1,6 @@
-# Dependency directory
-node_modules
+.gitignore
+gettiing-MEAN02/
+getting-MEAN03/
+.c9/
+hello.html
+hello-world.html
