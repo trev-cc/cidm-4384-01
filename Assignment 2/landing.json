@@ -1,0 +1,240 @@
+
+//My Code starts here
+{
+  "climbing" : [{
+    "weight" : "18000",
+    "vfriFlap5" : "116",
+    "vfriFlap10" : "110",
+    "vfriFlap15" : "107",
+    "vclimb" : "130",
+  },
+  {
+    "weight" : "20000",
+    "vfriFlap5" : "120",
+    "vfriFlap10" : "112",
+    "vfriFlap15" : "109",
+    "vclimb" : "131",
+  },
+  {
+    "weight" : "22000",
+    "vfriFlap5" : "126",
+    "vfriFlap10" : "118",
+    "vfriFlap15" : "115",
+    "vclimb" : "137",
+  },
+  {
+    "weight" : "24000",
+    "vfriFlap5" : "132",
+    "vfriFlap10" : "123",
+    "vfriFlap15" : "120",
+    "vclimb" : "143",
+  },
+  {
+    "weight" : "26000",
+    "vfriFlap5" : "137",
+    "vfriFlap10" : "128",
+    "vfriFlap15" : "125",
+    "vclimb" : "148",
+  },
+  {
+    "weight" : "28000",
+    "vfriFlap5" : "142",
+    "vfriFlap10" : "134",
+    "vfriFlap15" : "130",
+    "vclimb" : "154",
+  },
+  {
+    "weight" : "29000",
+    "vfriFlap5" : "146",
+    "vfriFlap10" : "137",
+    "vfriFlap15" : "133",
+    "vclimb" : "158",
+  }]
+}
+
+"takeoff" : [{
+  [{
+    "flaps5" : [{
+    
+    }]
+  }]
+}]
+
+"landing" : [{
+  "flaps5" : [{
+    {
+      "weight" : "18000",
+      "vapp" : "115",
+      "vref" : "",
+      "vga" : "109",
+    },
+    {
+      "weight" : "20000",
+      "vapp" : "120",
+      "vref" : "",
+      "vga" : "110",
+    },
+    {
+      "weight" : "22000",
+      "vapp" : "126",
+      "vref" : "",
+      "vga" : "115",
+    },
+    {
+      "weight" : "24000",
+      "vapp" : "131",
+      "vref" : "",
+      "vga" : "120",
+    },
+    {
+      "weight" : "26000",
+      "vapp" : "137",
+      "vref" : "",
+      "vga" : "125",
+    },
+    {
+      "weight" : "28000",
+      "vapp" : "142",
+      "vref" : "",
+      "vga" : "130",
+    },
+      {
+      "weight" : "29000",
+      "vapp" : "146",
+      "vref" : "",
+      "vga" : "134",
+    },
+  }],
+  "flaps10" : [{
+    {
+      "weight" : "18000",
+      "vapp" : "109",
+      "vref" : "108",
+      "vga" : "108",
+    },
+    {
+      "weight" : "20000",
+      "vapp" : "112",
+      "vref" : "112",
+      "vga" : "108",
+    },
+    {
+      "weight" : "22000",
+      "vapp" : "117",
+      "vref" : "117",
+      "vga" : "108",
+    },
+    {
+      "weight" : "24000",
+      "vapp" : "122",
+      "vref" : "122",
+      "vga" : "112",
+    },
+    {
+      "weight" : "26000",
+      "vapp" : "127",
+      "vref" : "127",
+      "vga" : "117",
+    },
+    {
+      "weight" : "28000",
+      "vapp" : "132",
+      "vref" : "132",
+      "vga" : "122",
+    },
+      {
+      "weight" : "29000",
+      "vapp" : "136",
+      "vref" : "136",
+      "vga" : "125",
+    }
+  }],
+  "flaps15" : [{
+    {
+      "weight" : "18000",
+      "vapp" : "106",
+      "vref" : "105",
+      "vga" : "105",
+    },
+    {
+      "weight" : "20000",
+      "vapp" : "106",
+      "vref" : "106",
+      "vga" : "105",
+    },
+    {
+      "weight" : "22000",
+      "vapp" : "112",
+      "vref" : "112",
+      "vga" : "105",
+    },
+    {
+      "weight" : "24000",
+      "vapp" : "117",
+      "vref" : "117",
+      "vga" : "107",
+    },
+    {
+      "weight" : "26000",
+      "vapp" : "122",
+      "vref" : "121",
+      "vga" : "111",
+    },
+    {
+      "weight" : "28000",
+      "vapp" : "126",
+      "vref" : "126",
+      "vga" : "116",
+    },
+      {
+      "weight" : "29000",
+      "vapp" : "129",
+      "vref" : "1269",
+      "vga" : "119",
+    }
+  }],
+  "flaps35" : [{
+    {
+      "weight" : "18000",
+      "vapp" : "",
+      "vref" : "101",
+      "vga" : "",
+    },
+    {
+      "weight" : "20000",
+      "vapp" : "",
+      "vref" : "102",
+      "vga" : "",
+    },
+    {
+      "weight" : "22000",
+      "vapp" : "",
+      "vref" : "107",
+      "vga" : "",
+    },
+    {
+      "weight" : "24000",
+      "vapp" : "",
+      "vref" : "112",
+      "vga" : "",
+    },
+    {
+      "weight" : "26000",
+      "vapp" : "",
+      "vref" : "116",
+      "vga" : "",
+    },
+    {
+      "weight" : "28000",
+      "vapp" : "",
+      "vref" : "120",
+      "vga" : "",
+    },
+      {
+      "weight" : "29000",
+      "vapp" : "",
+      "vref" : "123",
+      "vga" : "",
+    }
+  }]
+}]
